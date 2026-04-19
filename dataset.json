@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for New York City, New York, US",
-  "export_job_id": "9bfc0a6d-6156-4d06-9421-ccfe88e8586b",
+  "export_job_id": "d44ff943-8c16-4e57-986e-b2d79987cb89",
   "github_org": "Beamstation-Datasets",
   "id_short": 991666,
   "location_name": "New York City",
   "location_type": "city",
   "repo_name": "the-hhi-monopoly-index-for-new-york-city-new-york-us-sample-991666",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/991666/beamstation_991666_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_pct": 5.26,
+  "sample_pct": 7.69,
   "sample_records": 2,
   "sample_sha256": "dc856e479099d52b0e3321b6b0092333e829ca47af7b2c2b7cc411f638f34cfe",
   "sample_size_bytes": 23935,
-  "total_records": 38,
-  "updated_at": "2026-04-07T17:32:48.952489+00:00"
+  "total_records": 26,
+  "updated_at": "2026-04-14T23:07:24.474651+00:00"
 }
