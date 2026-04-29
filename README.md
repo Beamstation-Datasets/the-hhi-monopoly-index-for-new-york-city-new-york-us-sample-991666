@@ -9,9 +9,9 @@
 | Dataset ID | `991666` |
 | Location | New York City |
 | Category | Restaurants |
-| Full dataset size | 33 records |
-| Free sample size | 3 records (9.09%) |
-| Last export | 2026-04-22T02:28:24.213870+00:00 |
+| Full dataset size | 34 records |
+| Free sample size | 3 records (8.82%) |
+| Last export | 2026-04-29T05:31:02.557427+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-new-york-city-new-york-us-sample-991666/releases/download/sample-latest/beamstation_991666_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
